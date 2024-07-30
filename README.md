@@ -1,6 +1,16 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+
+
+
+
+
+https://github.com/user-attachments/assets/1595ca8b-7426-4bde-ab9a-28451ad5bf6f
+
+
+
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
